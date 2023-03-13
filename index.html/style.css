@@ -1,0 +1,91 @@
+body{
+    font-family: Garamond, serif;
+}
+:root{
+    --back-color:#8B008B;
+}
+h1{
+    font-family: 'Brush Script MT', cursive;
+}
+title{
+ font-style: italic;
+}
+
+.footer{
+    background-color: var(--back-color);
+    color:white;
+    /* background-color: #ddd; */
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("WebImage02.jpg"); */
+    /* height: 50%; */
+}
+.link{
+    text-decoration: none;
+    color:white;
+    padding-left: 1rem;
+   text-align: center;
+  font-weight: bold;
+  padding-bottom: 1rem;
+}
+.link-Rgt{
+    padding-left: 55rem;
+    text-decoration: none;
+    font-weight: bold;
+}
+.head{
+    text-align: center;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+}
+.inline{
+ padding: 0rem 2rem;
+ padding-bottom: 1rem;
+ font-weight: bolder;
+ font-size:x-large;
+}
+.heading-ash{
+    padding-bottom: 2rem;
+    padding-top: 3rem;
+    padding-left: 20rem;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.image{
+    float:right;
+    display: block;
+    /* padding-top:10rem ; */
+    border:1px ;
+    margin:0px 0px 15px 20px;
+    border-radius: 1rem;
+    }
+/* .para{
+    padding-right: 50rem;
+    padding-top: 5rem;
+} */
+.section{
+    /* display: inline; */
+    text-align: center;
+}
+.social{
+text-decoration: none;
+padding:0.5rem;
+border: 0.5px solid black ;
+padding-left: 6rem;
+max-width: max-content;
+display: inline;
+padding-right:7.5rem;
+background-color: white;
+color:#8B008B;
+
+
+}
+.Quick{
+    background-color: #8B008B;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    color:white;
+    text-decoration: none;
+    padding-left: 7rem;
+    list-style: none;
+}
+
+
+
